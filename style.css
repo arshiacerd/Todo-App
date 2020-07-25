@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+.container{
+    margin-top: 40px;
+    text-align: center;
+}
+.textbox{
+    border-radius: 25px;
+    height: 30px;
+    width: 300px;
+}
+ .fa-plus-circle{
+font-size: 25px;
+}
+h1{
+    color: lawngreen;
+    font-size: 40px;
+}
+span{
+    color: white;
+}
+#addBtn,#delAll{
+    margin-top: 20px;
+    background-color: greenyellow;
+}
+#list{
+    color: white;
+    font-size: 20px;
+}
+li{
+    list-style: none;
+    padding: 10px;
+}
+.edit,.del{
+    background-color: cadetblue;
+    margin-left: 20px;
+}
